@@ -29,5 +29,6 @@ Each joint of the robotic arm is designed to allow a specific type of movement:
 - Demonstrating basic robotic kinematics.
 
 
+## Contact
 - GitHub: https://github.com/quifA/RoboticArm-5-DOF
 - LinkedIn: https://www.linkedin.com/in/fatima-fahad2
